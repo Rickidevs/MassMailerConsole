@@ -1,11 +1,5 @@
 from imports import *
 
-# gonderici mail
-# gonderici sifre
-# alici maillerin oldugu txt
-# subject
-# mesajin oldugu txt
-
 maillogo = """                                                                                                                                               
 ███╗░░░███╗░█████╗░░██████╗░██████╗  ███╗░░░███╗░█████╗░██╗██╗░░░░░███████╗██████╗░
 ████╗░████║██╔══██╗██╔════╝██╔════╝  ████╗░████║██╔══██╗██║██║░░░░░██╔════╝██╔══██╗

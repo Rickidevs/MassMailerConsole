@@ -2,8 +2,6 @@
 
 chmod +x "main.py"
 
-sudo cp "main.py" /usr/local/bin/rickmail
-
 if ! command -v python3 &> /dev/null; then
     echo "Python3 is not installed. Python3 is loading..."
     sudo apt-get install -y python3
