@@ -16,6 +16,9 @@ git clone https://github.com/Rickidevs/MassMailerConsole.git
 cd MassMailerConsole 
 ```
 ``` bash
+chmod +x massler.sh 
+```
+``` bash
 ./massler.sh
 ```
 ``` bash
